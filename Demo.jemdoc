@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{Demo.html}, nofooter
+= Demos: 
+
+== Self-Driving Vehicles: Safe Velocity Regulation in Dynamic and Unforeseen Environment
+=== Model Learning Based RHAC v.s. RHAC:
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j7xGz0RSIEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-      in-picture" allowfullscreen></iframe>
+~~~
+
+
+=== L1 Adaptive Controller v.s. Normal Controller:
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RkZNBCgz5zo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-      in-picture" allowfullscreen></iframe>
+~~~
+
+
+

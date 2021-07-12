@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<title>Projects</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Home</div>
+<div class="menu-item"><a href="index.html">About&nbsp;me</a></div>
+<div class="menu-item"><a href="Projects.html" class="current">Projects</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="Open-Source.html">Open-Source</a></div>
+<div class="menu-item"><a href="Demo.html">Demo</a></div>
+<div class="menu-item"><a href="talks.html">Talks</a></div>
+<div class="menu-item"><a href="experiences.html">Experience</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Projects</h1>
+</div>
+<h1>Socio-Mathematics: Foundations of Social Information Dynamics and Controls</h1>
+<table class="imgtable"><tr><td>
+<img src="photos/social.jpg" alt="alt text" width="360px" height="300px" />&nbsp;</td>
+<td align="left"><p>The objective of this project is to develop a mathematical theory, based on models founded in social and cognitive science, to inform defense against malicious manipulation of information flow and belief dynamics on online media. Emphasis is made on closed-loop operation, where two (or more) parties in conflict execute real-time maneuvers in the information space. Confrontation in military domains, such as land and air, is based on well-understood dynamics that inform the assignment of effects to counteract threats. In the domain of information warfare, however, the fundamental underlying system dynamics are poorly understood. The proposed work bridges the above gap by developing theoretical models that combine social sensing, social/cognitive modeling, learning, stochastic control, game theory, and network embedding in order to enable prediction of adversarial action, inform reasoning about effects in the information space, and design policies to counter malicious information operations. Confrontation in the information space aims to impact population beliefs. In a world dominated by competition on human attention, we empower defense maneuvers in the information domain by answering four interrelated questions: </p>
+<ul>
+<li><p>What models best describe how humans consume and propagate information as well as how beliefs evolve? </p>
+</li>
+<li><p>What aggregate dynamics result from the above information flow models? </p>
+</li>
+<li><p>Given those dynamics, how to formulate learning, control, and game theoretic policies at scale to enable prediction of adversarial action and attain defense objectives in information environment operations? </p>
+</li>
+<li><p>What (information signal) sensors and actuators operationalize the above findings by translating between socio-mathematical models and concrete information artifacts, such as narratives, counter-narratives, and posts on online media? </p>
+</li>
+</ul>
+</td></tr></table>
+<div class="infoblock">
+<div class="blockcontent">
+<ol>
+<li><p><b>Y. Mao</b>, N. Hovakimyan, T. Abdelzaher, and L. Varshney, <a href="https://www.dropbox.com/s/00ignv1076s0qrx/Social-Network.pdf?dl=0">&lsquo;&lsquo;Cost-Function Learning with Asymmetric Cognitive Bias in Social Networks,"</a> <i>in preparation</i>.</p>
+</li>
+<li><p><b>Y. Mao</b>, N. Hovakimyan, T. Abdelzaher, and E. Theodorou, <a href="https://arxiv.org/pdf/2012.03075.pdf">&lsquo;&lsquo;Social System Inference from Noisy Observations,"</a>
+<i>submitted to IEEE Transactions on Control of Network Systems (Special Issue on Dynamics and Behaviors in Social Networks)</i>.</p>
+</li>
+<li><p><b>Y. Mao</b>, E. Akyol, and N. Hovakimyan, <a href="https://arxiv.org/pdf/1908.09812.pdf">&lsquo;&lsquo;Impact of Confirmation Bias on Competitive Information Spread in Social Networks,"</a>
+<i>to appear in IEEE Transactions on Control of Network Systems</i>, DOI: 10.1109/TCNS.2021.305011.</p>
+</li>
+<li><p><b>Y. Mao</b>, and E. Akyol, <a href="https://ieeexplore.ieee.org/document/9187724">&lsquo;&lsquo;On Inference of Network Topology and Confirmation Bias in Cyber-Social Networks,"</a>
+<i>IEEE Transactions on Signal and Information Processing over Networks (Special Issue on Network Topology Inference)</i>, vol. 6,  pp. 633&ndash;644, 2020.</p>
+</li>
+<li><p><b>Y. Mao</b>, S. Bolouki, and E. Akyol, <a href="https://ieeexplore.ieee.org/document/8510828">&lsquo;&lsquo;Spread of Information with Confirmation Bias in Cyber-Social Networks,"</a>
+<i>IEEE Transactions on Network Science and Engineering (Special Issue on Network of Cyber-Social Networks: Modeling, Analyses, and Control)</i>, vol. 7, no. 2, pp. 688&ndash;700, 2020.</p>
+</li>
+</ol>
+</div></div>
+<h1>Model-Learning Based Safe Operation for Self-Driving Vehicles</h1>
+<table class="imgtable"><tr><td>
+<img src="photos/car.jpg" alt="alt text" width="500px" height="250px" />&nbsp;</td>
+<td align="left"><p>One of the fundamental assumptions of model-based controllers is the availability of a fairly accurate model of the underlying dynamics in consideration. However, vehicle dynamics highly
+depend on the driving environments, and can be significantly different from one road (e.g., asphalt) to another (e.g., snow). Therefore, a single off-line-built vehicle model
+cannot capture the dynamics differences induced by environmental variations, and it is unreasonable to expect that the off-line-built multiple models are sufficient to accurately
+describe the vehicle-environment interaction dynamics in an unforeseen or unprepared environment, as e.g. the 2019 New York City Snow Squall. If the unforeseen environments cause deviation from the safety envelope or the uncertainty measurement threshold in the time-critical environment, it is necessary to use limited sensor data to timely learn and update the vehicle model for reliable decision making. Meanwhile, as a typical cyber-physical system, autonomous vehicles integrate the vehicular cyber system with the vehicular physical
+system for decision making, whose increasing complexity hinders its reliability, especially when system failures occur. Furthermore, the deployment of high performance artificial intelligence (e.g., deep learning vision algorithm) makes formal verification more challenging, such that testing alone is insufficient to guarantee the correctness of
+safety-critical systems. To address these challenges that pose formidable threats to the safety of self-driving vehicles in unforeseen and dynamic environments, we develop a <b>Finite-Time Model-Learning Based Simplex</b>, which</p>
+</td></tr></table>
+<ul>
+<li><p>guarantees the reliability of autonomous vehicles through emplying an L1 adaptive controller, which compensates for uncertainties and disturbances, as a verified safe controller to tolerate concurrent software and physical failures,</p>
+</li>
+<li><p>timely learns and updates the vehicle model for safe operation in unforeseen driving environments, via triggering finite-time model learning when any deviation from the safety envelope or the uncertainty measurement threshold occurs,</p>
+</li>
+<li><p>achieves the prescribed levels of accuracy and confidence of learned model through incorporating Redundant Data Processor and leveraging sample complexity.</p>
+</li>
+</ul>
+<div class="infoblock">
+<div class="blockcontent">
+<ol>
+<li><p><b>Y. Mao</b>, Y. Gu, N. Hovakimyan, L. Sha, and P. Voulgaris, <a href="https://arxiv.org/pdf/2008.01627.pdf">&lsquo;&lsquo;Safe Velocity Regulation of Self-Driving Vehicles in Dynamic and Unforeseen Environments,"</a> <i>submitted to ACM Transactions on Cyber-Physical Systems (Special Issue on Special Issue on Automotive CPS Safety &amp; Security)</i>. </p>
+</li>
+<li><p><b>Y. Mao</b>, N. Hovakimyan, P. Voulgaris, and L. Sha, <a href="https://arxiv.org/pdf/2010.06616.pdf">&lsquo;&lsquo;Finite-Time Model Inference from A Single Noisy Trajectory,"</a>
+<i>submitted to IEEE Transactions on Automatic Control</i>.</p>
+</li>
+<li><p>P. Zhao, <b>Y. Mao</b>, C. Tao, N. Hovakimyan, and X. Wang, <a href="https://arxiv.org/pdf/2010.04699.pdf">&lsquo;&lsquo;Adaptive Robust Quadratic Programs using Control Lyapunov and Barrier Functions,"</a>
+<i>to appear in the 59th IEEE Conference on Decision and Control</i>, Jeju Island, Republic of Korea, 2020.</p>
+</li>
+</ol>
+</div></div>
+<h1>Security and Privacy of Networked Cyber-Physical Systems</h1>
+<table class="imgtable"><tr><td>
+<img src="photos/cps.jpg" alt="alt text" width="640px" height="360px" />&nbsp;</td>
+<td align="left"><p>Security of networked systems is a difficult task as highlighted by several recent incidents, including the distributed denial-of-service attack on Estonian web
+sites, and cyber attacks on smart grids. The &lsquo;&lsquo;networked" aspect exacerbates the difficulty of securing these systems, since centralized measurement (sensing) and control are not feasible
+for such large-scale systems, and hence require the development of decentralized approaches, which are inherently prone to attacks. Particularly, stealthy attacks pose a significant security challenge, since it hides the attack signal in the nullspace of state-space representation and hence evades detection via conventional methods. The detection of stealthy attacks requires design principles with both security and control goals in mind. In addition to security, sensor data of multi-agent systems can be eavesdropped by the adversary to estimate/infer confidential information, see e.g., the target and home-base locations of connected autonomous vehicles in the battlefields. While from a perspective of stealthy topology attack design (e.g., topology attack in smart grids and software-defined networks), the attacker needs real-time data of some agents&rsquo; state to decide the target connection links to attack. Unfortunately, the inferred global real-time system state implies the largest scope of attackable connection links being exposed to the attacker. To address the security coupled with privacy concerns, we develop an evolving defense under privacy preserving constraint to fight stealthy attacks for networked cyber-physical systems, which</p>
+</td></tr></table>
+<ul>
+<li><p>removes the required knowledge of the misbehaving agents and the attack's start, pause, and resume times to detect the intelligent stealthy attacks,</p>
+</li>
+<li><p>preserves the privacy of the home-base and target locations and all real-time states of non-monitored agents from attacker, </p>
+</li>
+<li><p>removes the need of velocity measurements in achieving the second-order consensus in the absence of attacks. </p>
+</li>
+</ul>
+<div class="infoblock">
+<div class="blockcontent">
+<ol>
+<li><p><b>Y. Mao</b>, H. Jafarnejadsani, P. Zhao, E. Akyol, and N. Hovakimyan, <a href="https://ieeexplore.ieee.org/abstract/document/9099503">&lsquo;&lsquo;Novel Stealthy Attack and Defense Strategies for Networked Control Systems,"</a> <i>IEEE Transactions on Automatic Control (Special Issue on Security and Privacy of Distributed Algorithms and Network Systems)</i>, vol. 65, no. 9,  pp. 3847&ndash;3862, 2020.</p>
+</li>
+<li><p><b>Y. Mao</b>, H. Jafarnejadsani, P. Zhao, E. Akyol, and N. Hovakimyan, <a href="https://ieeexplore.ieee.org/document/9029997">&lsquo;&lsquo;Detectability of Intermittent Zero-Dynamics Attack in Networked Control Systems,"</a> <i>in 58th IEEE Conference on Decision and Control</i>, Nice, France, pp. 5605&ndash;5610, 2019.</p>
+</li>
+<li><p><b>Y. Mao</b>, E. Akyol, and Z. Zhang, <a href="https://ieeexplore.ieee.org/document/9029736">&lsquo;&lsquo;A Novel Defense Strategy Against Zero-Dynamics Attacks in Multi-Agent Systems,"</a>
+<i>in 58th IEEE Conference on Decision and Control</i>, Nice, France, pp. 3563&ndash;3568, 2019.</p>
+</li>
+<li><p><b>Y. Mao</b>, and E. Akyol, <a href="https://ieeexplore.ieee.org/document/8636053">&lsquo;&lsquo;Detectability of Cooperative Zero-Dynamics Attack,"</a>
+<i>in 56th Annual Allerton Conference on Communication, Control, and Computing</i>, pp. 227&ndash;234, 2018. </p>
+</li>
+<li><p><b>Y. Mao</b>, E. Akyol, and Z. Zhang, <a href="https://ieeexplore.ieee.org/document/8619351">&lsquo;&lsquo;Second-Order Consensus for Multi-Agent Systems by Time-Dependent Topology Switching,"</a>
+<i>in 57th IEEE Conference on Decision and Control</i>, Miami Beach, USA, pp. 6151&ndash;6156, 2018.</p>
+</li>
+<li><p><b>Y. Mao</b>, and Z. Zhang, <a href="https://ieeexplore.ieee.org/document/8430934">&lsquo;&lsquo;Second-Order Consensus For Multi-Agent Systems By State-Dependent Topology Switching,"</a>
+<i>in 2018 Annual American Control Conference</i>,  Milwaukee, USA, pp. 3392&ndash;3397, 2018.</p>
+</li>
+</ol>
+</div></div>
+</td>
+</tr>
+</table>
+</body>
+</html>
