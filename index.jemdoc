@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Yanbing Mao | Ph.D.
+
+~~~
+{}{img_left}{photos/bio1.jpg}{alt text}{125px}{160px}
+Postdoctoral Research Associate\n 
+[https://naira.mechse.illinois.edu/ Advanced Controls Research Laboratory] & [https://cs.illinois.edu/ Department of Computer Science]\n
+[https://illinois.edu/ University of Illinois at Urbana-Champaign]\n
+\n
+Office: Room 264, Computing Applications Building \n
+Address: 605 E Springfield Ave, Champaign, IL 61820 \n
+Email: ybmao@illinois.edu \n
+\[[https://scholar.google.com/citations?user=kN1IRpsAAAAJ&hl=en Google Scholar]\]\[[YM_CV.pdf Curriculem Vitae]\] \n
+~~~
+
+== About me
+I am a postdoctoral research associate in the Advanced Controls Research Laboratory and the Department of Computer Science at the University of Illinois at Urbana-Champaign (UIUC), hosted by [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Prof. Naira Hovakimyan] and [https://cs.illinois.edu/about/people/faculty/lrs Prof. Lui Sha]. From 
+Oct. 2018 to Jan. 2019, I was a visiting researcher in the Advanced Controls Research Laboratory and the Coordinated Science Laboratory at UIUC, hosted by [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Prof. Naira Hovakimyan]. I received my Ph.D. degree in Electrical and Computer Engineering from the State University of New York at Binghamton in Sept. 2019, co-advised by [https://ziang.binghamton.edu/ziang-zhang/ Prof. Ziang Zhang] and [http://ws.binghamton.edu/akyol/ Prof. Emrah Akyol]. 
+From Jan. 2014 to Mar. 2015, I studied traffic networks at Oregon State University, under the supervision of [https://cce.oregonstate.edu/wang Prof. Haizhong Wang]. 
+
+== Research Interests 
+- Computational Social Science
+- Self-Driving Vehicles 
+- Networked Cyber-Physical Systems
+
+== Education 
+- Ph.D. in Electrical and Computer Engineering, State University of New York at Binghamton, Sept. 2015 – Sept. 2019
+- M.E. in Circuits & Systems, University of Electronic Science and Technology of China,   Sept. 2010 – Jul. 2013
+- B.S. in Electronic Information Science and Technology, Sept. 2006 – Jul. 2010
+
+== News
+- \[07-14-2021\] We have submitted the paper [https://arxiv.org/pdf/2008.01627.pdf "Safe Velocity Regulation of Self-Driving Vehicles in Dynamic and Unforeseen Environments"] to
+ACM Transactions on Cyber-Physical Systems (Special Issue on Special Issue on Automotive CPS Safety & Security)!
+- \[07-09-2021\] Open source codes of safe velocity regulation of self-driving vehicles is available at [https://github.com/ymao578/GM ``GitHub: AutoRally-Safe Velocity Regulation"]. 
+- \[07-05-2021\] Demos of safe velocity regulation of self-driving vehicles in the dynamic and unforeseen environemnts are available: [pubs/m1.mp4 ``Model Learning based RHAC v.s. RHAC"], [pubs/m2.mp4 ``L1 Adaptive Controller v.s. Normal Controller"]. 
+- \[07-01-2021\] We have returned the revised paper [https://arxiv.org/abs/2012.03075 "Social System Inference from Noisy Observations"] to IEEE Transactions on Control of Network Systems (Special Issue on Dynamics and Behaviors in Social Networks)!
+- \[06-03-2021\]  I gave a talk of "Apollo-Rokwire: Infodemics Management Framework" in the workshop [https://cps-vo.org/group/cps-pimtg21/mini-workshops "Rethinking Socio-Cyber-Physical Systems of Tomorrow"] at 2021 NSF CPS PI meeting. 
+- \[01-15-2021\] I participated in a successful DOD proposal [https://govtribe.com/award/federal-grant-award/project-grant-hq00342110002 "Socio-Mathematics: Foundations of Social Information Dynamics and Controls"]! Exciting research!
+- \[12-18-2020\] Our paper [https://ieeexplore.ieee.org/document/9317819 "Impact of Confirmation Bias on Competitive Information Spread in Social Networks"] is accepted by IEEE Transactions on Control of Network Systems!
+
+
+
+
+
+
+
