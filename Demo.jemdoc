@@ -1,27 +1,21 @@
 # jemdoc: menu{MENU}{Demo.html}, nofooter
 = Demos: 
 
-== Self-Driving Vehicles: Safe Velocity Regulation in Dynamic and Unforeseen Environments
+== Safe an Fast Driving via Self-Correcting Phy-Taylor 
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dABt_nIBsdQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-      in-picture" allowfullscreen></iframe>
+~~~
 
-===  Safe Driving in and Unforeseen Environments:
+== Self-Driving Vehicles: Safe Velocity Regulation in Dynamic and Unforeseen Environments
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4eRvm6JVCBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-      in-picture" allowfullscreen></iframe>
 ~~~
 
 
-=== Model Learning Based RHAC v.s. RHAC:
-~~~
-{}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j7xGz0RSIEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-      in-picture" allowfullscreen></iframe>
-~~~
 
 
-=== L1 Adaptive Controller v.s. Normal Controller:
-~~~
-{}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RkZNBCgz5zo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-      in-picture" allowfullscreen></iframe>
-~~~
 
 
 

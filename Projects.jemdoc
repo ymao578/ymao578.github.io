@@ -1,6 +1,13 @@
 # jemdoc: menu{MENU}{Projects.html}, nofooter
 == Projects
 
+
+= Safety-Critical, Self-Correcting and Physics-Enhanced AI systems
+~~~
+come soon
+~~~
+
+
 = Socio-Mathematics: Foundations of Social Information Dynamics and Controls
 ~~~
 {}{img_left}{photos/social.jpg}{alt text}{460px}{320px}
@@ -12,12 +19,11 @@ The objective of this project is to develop a mathematical theory, based on mode
 ~~~
 
 ~~~
-. *Y. Mao*, J. Li, N. Hovakimyan, T. Abdelzaher, and C. Lebiere, [https://www.dropbox.com/s/jrndz0v5pzixuj4/Social-NetworkR13.pdf?dl=0 ``Cost Function Learning in Memorized Social
-Networks with Cognitive Behavioral Asymmetry,"] /submitted to IEEE Transactions on Computational Social Systems/.
+. *Y. Mao*, J. Li, N. Hovakimyan, T. Abdelzaher, and C. Lebiere, [https://www.dropbox.com/s/jrndz0v5pzixuj4/Social-NetworkR13.pdf?dl=0 ``Cost Function Learning in Memorized Social Networks with Cognitive Behavioral Asymmetry,"] /IEEE Transactions on Computational Social Systems, in revision/.
 . *Y. Mao*, N. Hovakimyan, T. Abdelzaher, and E. Theodorou, [https://arxiv.org/pdf/2012.03075.pdf ``Social System Inference from Noisy Observations,"]
-/submitted to IEEE Transactions on Computational Social Systems/.
+/IEEE Transactions on Computational Social Systems, in revision/.
 . *Y. Mao*, E. Akyol, and N. Hovakimyan, [https://arxiv.org/pdf/1908.09812.pdf ``Impact of Confirmation Bias on Competitive Information Spread in Social Networks,"]
-/to appear in IEEE Transactions on Control of Network Systems/, DOI: 10.1109/TCNS.2021.305011.
+/IEEE Transactions on Control of Network Systems/, vol. 8, no. 2, pp. 816-827, 2021.
 . *Y. Mao*, and E. Akyol, [https://ieeexplore.ieee.org/document/9187724 ``On Inference of Network Topology and Confirmation Bias in Cyber-Social Networks,"]
 /IEEE Transactions on Signal and Information Processing over Networks (Special Issue on Network Topology Inference)/, vol. 6,  pp. 633--644, 2020.
 . *Y. Mao*, S. Bolouki, and E. Akyol, [https://ieeexplore.ieee.org/document/8510828 ``Spread of Information with Confirmation Bias in Cyber-Social Networks,"]
@@ -40,11 +46,11 @@ safety-critical systems. To address these challenges that pose formidable threat
 - timely learns and updates the vehicle model for safe operation in unforeseen driving environments, via triggering finite-time model learning when any deviation from the safety envelope or the uncertainty measurement threshold occurs,
 - achieves the prescribed levels of accuracy and confidence of learned model through incorporating Redundant Data Processor and leveraging sample complexity.
 ~~~
-. *Y. Mao*, Y. Gu, N. Hovakimyan, L. Sha, and P. Voulgaris, [https://arxiv.org/pdf/2008.01627.pdf ``Safe Velocity Regulation of Self-Driving Vehicles in Dynamic and Unforeseen Environments,"] /submitted to ACM Transactions on Cyber-Physical Systems (Special Issue on Special Issue on Automotive CPS Safety & Security)/. 
+. *Y. Mao*, Y. Gu, N. Hovakimyan, L. Sha, and P. Voulgaris, [https://dl.acm.org/doi/10.1145/3564273 ``Safe Velocity Regulation of Self-Driving Vehicles in Dynamic and Unforeseen Environments,"] /to appear in ACM Transactions on Cyber-Physical Systems (Special Issue on Special Issue on Automotive CPS Safety & Security)/. 
 . *Y. Mao*, N. Hovakimyan, P. Voulgaris, and L. Sha, [https://arxiv.org/pdf/2010.06616.pdf ``Finite-Time Model Inference from A Single Noisy Trajectory,"]
 /submitted to IEEE Transactions on Automatic Control/.
 . P. Zhao, *Y. Mao*, C. Tao, N. Hovakimyan, and X. Wang, [https://arxiv.org/pdf/2010.04699.pdf ``Adaptive Robust Quadratic Programs using Control Lyapunov and Barrier Functions,"]
-/to appear in the 59th IEEE Conference on Decision and Control/, Jeju Island, Republic of Korea, 2020.
+/The 59th IEEE Conference on Decision and Control/, pp. 3353-3358, Jeju Island, Republic of Korea, 2020.
 ~~~
 
 
