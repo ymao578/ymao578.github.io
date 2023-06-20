@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{Demonstration Videos}, nofooter
+== Demonstration Videos
+
+= Self-Driving Vehicles
+- Safe Velocity Regulation in Dynamic and Unforeseen Environments
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4eRvm6JVCBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-      in-picture" allowfullscreen></iframe>
+~~~
+
+- Safe and Fast Driving via Self-Correcting Phy-Taylor 
+~~~
+{}{raw}
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/dABt_nIBsdQ" title="Safe Driving Controlled by Phyics-AI named Phy-Taylor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+
+= Quadruped Robots
+- coming ...
+ 
+
