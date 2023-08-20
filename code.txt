@@ -1,0 +1,3 @@
+s1: cd + file path
+s2: python jemdoc.py index.jemdoc
+s3: python jemdoc.py others
