@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Yanbing Mao | Ph.D.
+
+~~~
+{}{img_left}{photos/bio1.jpg}{alt text}{125px}{160px}
+Assistant Professor\n 
+Engineering Technology Division\n
+Wayne State University \n
+\n
+Office: ET Building 1151 \n
+Address: 4855 4th St, Detroit, MI 48201 \n
+Email: hm9062@wayne.edu \n
+\[[https://scholar.google.com/citations?user=kN1IRpsAAAAJ&hl=en Google Scholar]\]\[[YM_CV.pdf Curriculem Vitae]\] \n
+~~~
+
+== Opening
+My research group has several Ph.D. positions fully funded by a project on safe Physics-AI, see the \[[AD_PhD.pdf AD]\]. 
+
+== Research Interests 
+- Safe Physics‐AI
+- Social-Information Dynamics and Control 
+
+== Application Domains
+- Self-Driving Vehicles
+- Quadruped Robots
+- Social Cybersecurity 
+
+== Work Experience
+- Assistant Professor, Wayne State University, Aug. 2022 – Present
+- Postdoctoral Research Associate, University of Illinois at Urbana-Champaign, Oct. 2019 – Jul. 2022
+
+== Education 
+- Ph.D. in Electrical and Computer Engineering, State University of New York at Binghamton, Sept. 2015 – Sept. 2019
+- M.E. in Circuits & Systems, University of Electronic Science and Technology of China,   Sept. 2010 – Jul. 2013
+
+
+
+== News
+- \[03-15-2024\] We have opened the [https://hp-cao.github.io/project-phy-drl/ "Phy-DRL''], including source codes and demo videos. 
+- \[01-25-2024\] We have successfully implemented our Phy-DRL on real A1 quadruped robot. The demo video will come soon!
+- \[01-16-2024\] Our Physics-AI work [https://openreview.net/forum?id=5Dwqu5urzs "Phy-DRL: Physics-Regulated Deep Reinforcement Learning: Invariant Embeddings''] got accepted at ICLR 2024 as a *spotlight (5%)*! Phy-DRL features 1) automatic construction of safety-embedded reward, given many safety conditions or regulations, 2) mathematically-provable safety guarantee, and 3) fast training towards safety guarantee. The theoretical claims were demonstrated by training a quadruped robot and a cart-pole system.
+- \[12-15-2023\] Our Physics-AI work [https://ieeexplore.ieee.org/abstract/document/10297119 "Phy-Taylor: Partially Physics-Knowledge-Enhanced Deep Neural Networks via NN Editing''] is accepted by IEEE Transactions on Neural Networks and Learning Systems!
+- \[07-15-2023\] Our Physics-AI work [https://css.paperplaza.net/images/temp/CDC/files/0786.pdf "Physics-Model-Regulated Deep Reinforcement Learning Towards Safety \& Stability Guarantees''] is accepted by 62nd IEEE Conference on Decision and Control!
+- \[12-14-2022\] Our paper [https://arxiv.org/pdf/2012.03075.pdf "Social System Inference from Noisy Observations''] is accepted by IEEE Transactions on Computational Social Systems!
+- \[11-04-2022\] Our paper [https://arxiv.org/pdf/2203.10197.pdf "Cost Function Learning in Memorized Social Networks with Cognitive Behavioral Asymmetry''] is accepted by IEEE Transactions on Computational Social Systems!
+- \[09-15-2022\] Our paper [https://dl.acm.org/doi/10.1145/3564273 "SL1-Simplex: Safe Velocity Regulation of Self-Driving Vehicles in Dynamic and Unforeseen Environments''] is accepted by ACM Transactions on Cyber-Physical Systems (Special Issue on Automotive CPS Safety & Security)!
+- \[09-01-2022\] Latest Demo of safe and fast driving of self-driving car is available: [https://www.youtube.com/watch?v=dABt_nIBsdQ ``Youtube'']. The car is controlled by our proposed self-correcting physics-AI, named, Phy-Taylor.  
+- \[02-15-2022\] I am co-organizing the 7th International Workshop on Social Sensing, an ICWSM 2022 full-day workshop. The submission deadline is March 27, 2022. Please consider submitting your full papers and/or vision abstracts to the workshop. [http://socialsens.web.illinois.edu/ ``2022 ICWSM--Social Sensing'']. Detailed information can be found at [ss.pdf ``Belief Dynamics'']. 
+- \[01-25-2022\] Latest Demo of safe driving of self-driving vehicles in the dynamic and unforeseen environemnts is available: [https://www.youtube.com/shorts/4eRvm6JVCBs ``Youtube'']. 
+- \[07-09-2021\] Open source codes of safe velocity regulation of self-driving vehicles are available at [https://github.com/ymao578/GM ``GitHub: AutoRally-Safe Velocity Regulation'']. 
+- \[07-05-2021\] Demos of safe velocity regulation of self-driving vehicles in the dynamic and unforeseen environemnts are available: [pubs/m1.mp4 ``Model Learning based RHAC v.s. RHAC''], [pubs/m2.mp4 ``L1 Adaptive Controller v.s. Normal Controller'']. 
+- \[06-03-2021\] I gave a talk of ``Apollo-Rokwire: Infodemics Management Framework'' in the workshop [https://cps-vo.org/group/cps-pimtg21/mini-workshops ``Rethinking Socio-Cyber-Physical Systems of Tomorrow''] at 2021 NSF CPS PI meeting. 
+- \[12-18-2020\] Our paper [https://ieeexplore.ieee.org/document/9317819 ``Impact of Confirmation Bias on Competitive Information Spread in Social Networks''] is accepted by IEEE Transactions on Control of Network Systems!
