@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+
+= Journal Papers
+. *Yanbing Mao*, Lui Sha, Huajie Shao, Yuliang Gu, Qixin Wang, and Tarek Abdelzaher [https://ieeexplore.ieee.org/abstract/document/10297119 ``Phy-Taylor: Partially Physics-Knowledge-Enhanced Deep Neural Networks via NN Editing,"] /IEEE Transactions on Neural Networks and Learning Systems/, DoI: 10.1109/TNNLS.2023.3325432.
+. *Yanbing Mao*, Naira Hovakimyan, Tarek Abdelzaher, and Evangelos Theodorou, [https://ieeexplore.ieee.org/document/9997245 ``Social System Inference from Noisy Observations,"] /IEEE Transactions on Computational Social Systems/, DoI: 10.1109/TCSS.2022.3229599. 
+. *Yanbing Mao*, Jinning Li, Naira Hovakimyan, Tarek Abdelzaher, and Christian Lebiere, [https://ieeexplore.ieee.org/document/9945909 ``Cost Function Learning in Memorized Social
+Networks with Cognitive Behavioral Asymmetry,"] /IEEE Transactions on Computational Social Systems/, DoI: 10.1109/TCSS.2022.3218485. 
+. *Yanbing Mao*, Yuliang Gu, Naira Hovakimyan, Lui Sha, and Petros Voulgaris, [https://dl.acm.org/doi/10.1145/3564273 ``Safe Velocity Regulation of Self-Driving Vehicles in Dynamic and Unforeseen Environments,"] /ACM Transactions on Cyber-Physical Systems (Special Issue on Automotive CPS Safety & Security)/, vol. 7, no. 1, pp. 1--24, 2023. 
+. *Yanbing Mao*,  Emrah Akyol, and Naira Hovakimyan, [https://ieeexplore.ieee.org/document/9317819 ``Impact of Confirmation Bias on Competitive Information Spread in Social Networks,"] /to appear in IEEE Transactions on Control of Network Systems/, DOI: 10.1109/TCNS.2021.3050117. 		
+. *Yanbing Mao*,  Hamidreza Jafarnejadsani, Pan Zhao, Emrah Akyol, and Naira Hovakimyan, [https://ieeexplore.ieee.org/abstract/document/9099503 ``Novel Stealthy Attack and Defense Strategies for Networked Control Systems,"] /IEEE Transactions on Automatic Control (Special Issue on Security and Privacy of Distributed Algorithms and Network Systems)/, vol. 65, no. 9,  pp. 3847--3862, 2020. 				
+. *Yanbing Mao*, and Emrah Akyol, [https://ieeexplore.ieee.org/document/9187724 ``On Inference of Network Topology and Confirmation Bias in Cyber-Social Networks,"] /IEEE Transactions on Signal and Information Processing over Networks (Special Issue on Network Topology Inference)/, vol. 6,  pp. 633--644, 2020. 				
+. *Yanbing Mao*, Sadegh Bolouki, and Emrah Akyol, [https://ieeexplore.ieee.org/document/8510828 ``Spread of Information with Confirmation Bias in Cyber-Social Networks,"] /IEEE Transactions on Network Science and Engineering (Special Issue on Network of Cyber-Social Networks: Modeling, Analyses, and Control)/, vol. 7, no. 2, pp. 688--700, 2020. 		
+. *Yanbing Mao*, and Ziang Zhang, [https://ieeexplore.ieee.org/document/8369396 ``Asymptotic Frequency Synchronization of Kuramoto Model by Step Force,"] /IEEE Transactions on Systems, Man, and Cybernetics: Systems/, vol. 50, no. 8, pp. 2768--2778, 2020. 	
+. *Yanbing Mao*, Hongbin Zhang, and Ziang Zhang, [https://ieeexplore.ieee.org/document/8369396 ``Finite-Time Stabilization of Discrete-Time Switched Nonlinear Systems without Stable Subsystems via Optimal Switching Signal Design,"] /IEEE Transactions on Fuzzy Systems/, vol. 25, no. 1. pp. 172--180, 2017. 				
+. *Yanbing Mao*, Hongbin Zhang, and Shengyuan Xu, [https://ieeexplore.ieee.org/document/6576166 ``The Exponential Stability and Asynchronous Stabilization of a Class of Switched Nonlinear System Via the T–S Fuzzy Model,"] /IEEE Transactions on Fuzzy Systems/, vol. 22, no. 4. pp. 817--828, 2014. 
+
+
+
+= Conference Papers
+. Hongpeng Cao, *Yanbing Mao*, Lui Sha, and Marco Caccamo, [https://openreview.net/forum?id=5Dwqu5urzs ``Physics-Regulated Deep Reinforcement Learning: Invariant Embeddings,"] /The Twelfth International Conference on Learning Representations/, *Spotlight* presentaion, Vienna, Austria, pp. 1--45, 2024.
+. Hongpeng Cao, *Yanbing Mao*, Lui Sha, and Marco Caccamo, [https://css.paperplaza.net/images/temp/CDC/files/0786.pdf ``Physics-Model-Regulated Deep Reinforcement Learning Towards Safety \& Stability Guarantees,"] /62nd IEEE Conference on Decision and Control/, Marina Bay Sands, Singapore, pp. 8300--8305, 2023.
+. Pan Zhao, *Yanbing Mao*, Chuyuan Tao, Naira Hovakimyan, and Xiaofeng Wang, [https://arxiv.org/pdf/2010.04699.pdf ``Adaptive Robust Quadratic Programs using Control Lyapunov and Barrier Functions,"] /in 59th IEEE Conference on Decision and Control/, Jeju Island, Republic of Korea, pp. 3353--3358, 2020.
+. *Yanbing Mao*, and Emrah Akyol, [https://ieeexplore.ieee.org/document/9048822 ``Competitive Information Spread with Confirmation Bias,"] /in 53rd Asilomar Conference on Signals, Systems, and Computers/, Pacific Grove, USA, pp. 391--395, 2019.
+. *Yanbing Mao*, and Emrah Akyol, [https://ieeexplore.ieee.org/abstract/document/8919870 ``On Network Topology Inference of Social Networks,"] /in 57th Annual Allerton Conference on Communication, Control, and Computing/, Monticello, USA, pp. 804--809, 2019.
+. *Yanbing Mao*, Hamidreza Jafarnejadsani, Pan Zhao, Emrah Akyol, and Naira Hovakimyan, [https://ieeexplore.ieee.org/document/9029997 ``Detectability of Intermittent Zero-Dynamics Attack in Networked Control Systems,"] /in 58th IEEE Conference on Decision and Control/, Nice, France, pp. 5605--5610, 2019.
+. *Yanbing Mao*, Emrah Akyol, and Ziang Zhang, [https://ieeexplore.ieee.org/document/9029736 ``A Novel Defense Strategy Against Zero-Dynamics Attacks in Multi-Agent Systems,"] /in 58th IEEE Conference on Decision and Control/, Nice, France, pp. 3563--3568, 2019.
+. *Yanbing Mao*, and Emrah Akyol, [https://ieeexplore.ieee.org/document/8636053 ``Detectability of Cooperative Zero-Dynamics Attack,"] /in 56th Annual Allerton Conference on Communication, Control, and Computing/, Monticello, USA, pp. 227--234, 2018.
+. *Yanbing Mao*, and Emrah Akyol, [https://reader.elsevier.com/reader/sd/pii/S2405896318336048?token=773EC9CDEEC4806A5DD602E8D6FDFC7F9A51A899AC56BF5FBB4D916DEE3901C9D54CC8E40A1C8DE39C6D6611F0AB4442 ``Synchronization of Coupled Harmonic Oscillators by Time-Dependent Topology Switching,"] /in 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems/, Groningen, Netherlands, 2018.		
+. *Yanbing Mao*, Emrah Akyol, and Ziang Zhang, [https://ieeexplore.ieee.org/document/8619351 ``Second-Order Consensus for Multi-Agent Systems by Time-Dependent Topology Switching,"] /in 57th IEEE Conference on Decision and Control/, Miami Beach, USA, pp. 6151--6156, 2018.		
+. *Yanbing Mao*, Sadegh Bolouki, and Emrah Akyol, [https://ieeexplore.ieee.org/document/8619824 ``On the Evolution of Public Opinion in the Presence of Confirmation Bias,"] /in 57th IEEE Conference on Decision and Control/, Miami Beach, USA, pp. 5352--5357, 2018.	
+. *Yanbing Mao*, and Ziang Zhang, [https://ieeexplore.ieee.org/document/8430934 ``Second-Order Consensus for Multi-Agent Systems by State-Dependent Topology Switching,"] /in 2018 Annual American Control Conference/, Milwaukee, USA, pp. 3392--3397, 2018.		
+. *Yanbing Mao*, and Ziang Zhang, [https://ieeexplore.ieee.org/abstract/document/7798931 ``Distributed Frequency Synchronization and Phase-Difference Tracking for Kuramoto Oscillators and Its Application to Islanded Microgrids,"] /in 55th IEEE Conference on Decision and Control/, Las Vegas, USA, pp. 4364--4369, 2016.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
