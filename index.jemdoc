@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Yanbing Mao | Ph.D.
+
+~~~
+{}{img_left}{photos/bio1.jpg}{alt text}{125px}{160px}
+Assistant Professor\n 
+Engineering Technology Division\n
+Wayne State University \n
+\n
+Office: ET Building 1151 \n
+Address: 4855 4th St, Detroit, MI 48201 \n
+Email: hm9062@wayne.edu \n
+\[[https://scholar.google.com/citations?user=kN1IRpsAAAAJ&hl=en Google Scholar]\] \n
+~~~
+
+== Research Interests 
+- Embodied AI
+- Robot Learning
+- Dynamics and Control of Social Information 
+
+== Application Domains
+- Self-Driving Vehicles
+- Safety-Critical Robots
+- Social Cybersecurity 
+
+== Work Experience
+- Assistant Professor, Wayne State University, Aug. 2022 – Present
+- Postdoctoral Research Associate, University of Illinois at Urbana-Champaign, Oct. 2019 – Jul. 2022
+
+== Education 
+- Ph.D. in Electrical and Computer Engineering, State University of New York at Binghamton, Sept. 2015 – Sept. 2019
+- M.E. in Circuits & Systems, University of Electronic Science and Technology of China,   Sept. 2010 – Jul. 2013
+
+
+== News
+- \[10-15-2025\] We open the [https://charlescai123.github.io/real-drl-website/ "Real-DRL''], including source codes and demo videos.
+- \[10-01-2025\] Our Paper [https://openreview.net/forum?id=gXZlZAeqay "Real-DRL: Teach and Learn in Reality''] got accepted at *NeurIPS 2025*. Real-DRL enables safe runtime learning of deep reinforcement learning agents to develop safe and high-performance action policies in safety-critical autonomous systems. At a high level, Real-DRL features *Real Data \+ Good Data \+ Novel Learning Architecture*. Congratulations to my student Yihao Cai! 
+- \[06-15-2025\] Our Paper [https://dl.acm.org/doi/10.1145/3744351 "Runtime Learning Machine''] got accepted at *ACM Transactions on Cyber Physical Systems (Special Issue on Embodied Artificial Intelligence in Cyber-Physical Systems: Algorithms, Computing Systems, Applications, and Trustworthiness)*. Congratulations to my student Yihao Cai! 
+- \[03-20-2025\] Our project, *Runtime Learning Machine*, got funded by Nvidia Academic Grant. With Nvidia’s hardware support, we will upgrade runtime learning to physical edge learning for robots in the wild. 
+- \[03-15-2025\] The [https://www.youtube.com/watch?v=wKp-ViRdIBA "Demo video: Year 2024''] summarized our research progress in the Year 2024.
+- \[02-20-2025\] We open-sourced my student Yihao Cai's leading work on [https://github.com/Charlescai123/isaac-wild-go2 "Runtime Learning of Quadruped Robots in Wild Environments''].
+- \[03-15-2024\] We open the [https://hp-cao.github.io/project-phy-drl/ "Phy-DRL''], including source codes and demo videos. 
+- \[01-16-2024\] Our Physics-AI work [https://openreview.net/forum?id=5Dwqu5urzs "Phy-DRL: Physics-Regulated Deep Reinforcement Learning: Invariant Embeddings''] got accepted at *ICLR 2024* as a *spotlight*! Phy-DRL features 1) automatic construction of safety-embedded reward, given many safety conditions or regulations, 2) mathematically-provable safety guarantee, and 3) fast training towards safety guarantee. The theoretical claims were demonstrated by training a quadruped robot and a cart-pole system.
